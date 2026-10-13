@@ -1,0 +1,26 @@
+@"
+# virtual environment (never commit this)
+.venv/
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
+"@ | Out-File .gitignore -Encoding ascii
+# virtual environments (never commit these)
+.venv/
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
